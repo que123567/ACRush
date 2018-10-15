@@ -15,7 +15,7 @@ struct cse250::vNode {
 };
 ```
 
-###LinkedVector.hpp
+### LinkedVector.hpp
 
 ```js
 #ifndef _LINKED_VECTOR_HPP_
